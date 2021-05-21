@@ -1,0 +1,39 @@
+.color-red{
+    color: red;
+}
+.color-purple{
+    color: #867ae9;
+}
+.color-yellow{
+    color: #ffc93c;
+}
+
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    position: relative;
+    padding: 10px;
+}
+
+article ul li{
+    list-style-position: inside;
+}
+
+body{
+    text-align: center;
+}
+.text-left{
+    text-align: left
+}
+.font-fam{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.paragraph-fam{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
